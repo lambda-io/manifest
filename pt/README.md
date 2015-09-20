@@ -16,3 +16,9 @@ Nossas metas são simples:
 ## Este projeto
 
 Este repositório visa ofertar todas as informações necessárias tanto para a realização de um meetup Lambda IO quanto para o entendimento da conferência.
+
+## Links
+
+- Código de Conduta
+- Manual de Organização de Meetups
+- Gerador de Logo
