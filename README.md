@@ -17,3 +17,18 @@ languages teaching  which unfortunately plagues many places in the world and,
 respectively, their IT education systems - ranging from technical to
 postgraduates courses by providing resources and a community that makes it
 easier to learn about functional programming, functional languages, use cases etc.
+
+## Motivation
+
+This initiative was born in Brazil, created by a small group of technical and
+undergraduate students who were simply tired of learning always the same
+imperative-related concepts and languages in their classes.
+
+As the [functional buzz](https://medium.com/@jugoncalves/functional-programming-should-be-your-1-priority-for-2015-47dd4641d6b9)
+grows it is very common to see nowadays people who have been wondering what
+functional programming is all about but can't find the right resources, good
+motivation or even a community to support his/her studies and then give up on
+learning. The situation becomes even worse when we realize that many of IT
+professionals, people who deal with software development - and even Computer
+Science students - have never heard of a different paradigm such as the
+functional one.
