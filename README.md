@@ -32,3 +32,31 @@ learning. The situation becomes even worse when we realize that many of IT
 professionals, people who deal with software development - and even Computer
 Science students - have never heard of a different paradigm such as the
 functional one.
+
+## How
+
+### Meetups
+
+The idea is to make small Lambda I/O Meetups per city. Those meetups consists of
+an one-day meetup with talks - and maybe workshops - about everything in the
+functional world:
+
+- The paradigm itself
+- *Purist* languages
+- Functional libs and implementations
+- Parallelism/Concurrency
+- Benefits
+- Use cases
+- ...
+
+Those *Lambda I/O Meetups* have a pre-formatted style which can be found [here](https://github.com/lambda-io/meetup-organization-guidelines).
+
+### Conferences
+
+The small meetups aim to promote the functional knowledge in distributed/
+decentralized way but they aren't enough since they exactly **small meetups**.
+So it is also important to promote big conferences yearly which would congregate
+big amounts of people per country.
+
+Those *Lambda I/O Conferences* have a pre-formatted style which can be found [here](https://github.com/lambda-io/conference-organization-guidelines).
+
