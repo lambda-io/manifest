@@ -10,8 +10,9 @@ to **spread functional through the world**.
 - [Who are we?](#who-are-we)
 - [Motivation](#motivation)
 - [How?](#how)
-- [Contributing](#contributing)
 - [Useful Links](#useful-links)
+- [Translations](#translations)
+- [Contributing](#contributing)
 - [License](#license)
 
 ## Who are we?
@@ -72,10 +73,6 @@ big amounts of people per country.
 
 Those *Lambda I/O Conferences* have a pre-formatted style which can be found [here](https://github.com/lambda-io/conference-organization-guidelines).
 
-## Contributing
-
-Contributing guidelines can be found [here](CONTRIBUTING.md).
-
 ## Useful Links
 
 > We aim to have many useful repositories to help people with all the *Lambda I/O* purpose, they are:
@@ -106,7 +103,16 @@ Contributing guidelines can be found [here](CONTRIBUTING.md).
 
 ## Translations
 
+> This manifest aims to be translated in as many languages as possible. At this
+moment, these are the available ones. If you miss any language and you'd like to
+help us, feel free to [contribute](#contributing).
+
 - [Portuguese](pt/README.md)
+
+## Contributing
+
+Contributions are as welcome as possible! If you would like to help us in our
+mission, the contributing guidelines can be found [here](CONTRIBUTING.md).
 
 ## License
 
