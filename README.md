@@ -10,6 +10,7 @@
 - [Motivation](#motivation)
 - [How?](#how)
 - [Contributing](#contributing)
+- [Useful Links](#useful-links)
 - [License](#license)
 
 ## Who are we?
@@ -79,16 +80,33 @@ Contributing guidelines can be found [here](CONTRIBUTING.md).
 > We aim to have many useful repositories to help people with all the *Lambda I/O* purpose, they are:
 
 - [Meetup Organizer Manual](https://github.com/lambda-io/meetup-organization-guidelines)
+
+  A simple guide on how to organize Lambda I/O meetups.
+
 - [Conference Organizer Manual](https://github.com/lambda-io/conference-organization-guidelines)
+
+  A simple guide on how to organize Lambda I/O conferences.
+
 - [Resources](https://github.com/lambda-io/resources)
+
+  Repo containing some resources which aim to help organizers of Lambda I/O events across the world.
+
 - [Code of Conduct](https://github.com/lambda-io/code-of-conduct)
+
+  Every event needs one.
+
 - [Meetup Logo Generator](https://github.com/lambda-io/meetup-logo-generator)
+
+  Logo Generator for every city meetup.
+
 - [Meetup/Conference Site Boilerplate](https://github.com/lambda-io/site-boilerplate)
+
+  Such a very easy way to create websites for conferences/meetups.
 
 ## License
 
 The documentation around the **Lambda I/O Manifest** and everything in this
-repository is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International](http://creativecommons.org/licenses/by-nc/4.0/)
-except the logo and other images, which are licensed under a [Creative Commons  Attribution-NonCommercial-NoDerivatives 4.0 International](http://creativecommons.org/licenses/by-nc-nd/4.0/).
+repository is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International](http://creativecommons.org/licenses/by-nc/4.0/) license
+except the logo and other images, which are licensed under a [Creative Commons  Attribution-NonCommercial-NoDerivatives 4.0 International](http://creativecommons.org/licenses/by-nc-nd/4.0/) license.
 
 *All contributions are assumed to be also licensed under the same.*
