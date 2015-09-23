@@ -60,9 +60,15 @@ big amounts of people per country.
 
 Those *Lambda I/O Conferences* have a pre-formatted style which can be found [here](https://github.com/lambda-io/conference-organization-guidelines).
 
+## Contributing
+
+Contributing guidelines can be found [here](CONTRIBUTING.md).
+
 ## License
 
 The documentation around the **Lambda I/O Manifest** and everything in this
 repository is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International](http://creativecommons.org/licenses/by-nc/4.0/)
 except the logo and other images, which are licensed under a [Creative Commons  Attribution-NonCommercial-NoDerivatives 4.0 International](http://creativecommons.org/licenses/by-nc-nd/4.0/).
+
+*All contributions are assumed to be also licensed under the same.*
 
