@@ -1,6 +1,7 @@
 # The Lambda I/O Manifest
 
-> Let's spread functional through the world.
+> No, it's not about monadic treatment for side effects but an open initiative
+to **spread functional through the world**.
 
 ![The Cool Way](banner.png)
 
