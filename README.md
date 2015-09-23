@@ -2,6 +2,12 @@
 
 ## Table of contents
 
+- [Who are we?](#who-are-we)
+- [Motivation](#motivation)
+- [How?](#how)
+- [Contributing](#contributing)
+- [License](#license)
+
 ## Who are we?
 
 The Lambda I/O Foundation consists of an open initiative which is aims to
@@ -33,7 +39,7 @@ professionals, people who deal with software development - and even Computer
 Science students - have never heard of a different paradigm such as the
 functional one.
 
-## How
+## How?
 
 ### Meetups
 
@@ -71,4 +77,3 @@ repository is licensed under a [Creative Commons Attribution-NonCommercial 4.0 I
 except the logo and other images, which are licensed under a [Creative Commons  Attribution-NonCommercial-NoDerivatives 4.0 International](http://creativecommons.org/licenses/by-nc-nd/4.0/).
 
 *All contributions are assumed to be also licensed under the same.*
-
