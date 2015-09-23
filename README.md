@@ -10,6 +10,7 @@ to **spread functional through the world**.
 - [Who are we?](#who-are-we)
 - [Motivation](#motivation)
 - [How?](#how)
+- [Our principles](#our-principles)
 - [Useful Links](#useful-links)
 - [Translations](#translations)
 - [Contributing](#contributing)
@@ -67,11 +68,47 @@ Those *Lambda I/O Meetups* have a pre-formatted style which can be found [here](
 ### Conferences
 
 The small meetups aim to promote the functional knowledge in distributed/
-decentralized way but they aren't enough since they exactly **small meetups**.
+*(de)centralized* way but they aren't enough since they exactly **small meetups**.
 So it is also important to promote big conferences yearly which would congregate
 big amounts of people per country.
 
 Those *Lambda I/O Conferences* have a pre-formatted style which can be found [here](https://github.com/lambda-io/conference-organization-guidelines).
+
+## Our principles
+
+### People matter
+
+As stated in the [Motivation](#motivation) section, people are our reason. So it is very important to think about their experience - by helping them and being as nice as possible. Functional paradigm can be awesome - so why can't try to make people learning it feel awesome too?
+
+### (De)centralization
+
+Our philosophy works based on a centralized model of decentralization.
+To help understanding, it can be divided in two points:
+
+#### Decentralization
+
+- **Everyone** has the freedom to organize Lambda I/O events **wherever** and
+**whenever** he/she wants.
+
+- The meetups are independent of each other.
+
+- The Lambda I/O Foundation does not set specific details of the individual
+scope of each meetup - such as dates, agenda, sponsors, supporters etc.
+
+#### Centralization
+
+- To make the organization and interaction of meetups with the proposal of the
+foundation easier, all organizational repositories of meetups and conferences
+are gathered in the [Lambda I/O Foundation](https://github.com/lambda-io)'s
+Github organization. For each meetup it is created a team that will have full
+power to define the details described in the [Decentralization]() principle and
+the teams only have access to their meetups - ensuring their independence. The
+born of a meetup - and their respective team in the [Lambda I/O Foundation](https://github.com/lambda-io)'s
+Github organization - only needs the interest of a possible facilitator as
+stated [here]().
+
+- All the events - meetups and conferences - **must adhere to the basic
+principles of the foundation** - as its proposal, code of conduct etc.
 
 ## Useful Links
 
