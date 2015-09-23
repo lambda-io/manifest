@@ -103,6 +103,10 @@ Contributing guidelines can be found [here](CONTRIBUTING.md).
 
   Such a very easy way to create websites for conferences/meetups.
 
+## Translations
+
+- [Portuguese](pt/README.md)
+
 ## License
 
 The documentation around the **Lambda I/O Manifest** and everything in this
