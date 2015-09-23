@@ -74,6 +74,17 @@ Those *Lambda I/O Conferences* have a pre-formatted style which can be found [he
 
 Contributing guidelines can be found [here](CONTRIBUTING.md).
 
+## Useful Links
+
+> We aim to have many useful repositories to help people with all the *Lambda I/O* purpose, they are:
+
+- [Meetup Organizer Manual](https://github.com/lambda-io/meetup-organization-guidelines)
+- [Conference Organizer Manual](https://github.com/lambda-io/conference-organization-guidelines)
+- [Resources](https://github.com/lambda-io/resources)
+- [Code of Conduct](https://github.com/lambda-io/code-of-conduct)
+- [Meetup Logo Generator](https://github.com/lambda-io/meetup-logo-generator)
+- [Meetup/Conference Site Boilerplate](https://github.com/lambda-io/site-boilerplate)
+
 ## License
 
 The documentation around the **Lambda I/O Manifest** and everything in this
