@@ -1,5 +1,9 @@
 # The Lambda I/O Manifest
 
+> Let's spread functional through the world.
+
+![The Cool Way](banner.png)
+
 ## Table of contents
 
 - [Who are we?](#who-are-we)
