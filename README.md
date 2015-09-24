@@ -1,7 +1,8 @@
 # The Lambda I/O Manifest
 
-> No, it's not about monadic treatment for side effects but an open initiative
-to **spread functional through the world**.
+> No, it's not about the use of functional programming with monadic treatment
+for side effects. It is actually an open initiative to **spread functional
+knowledge through the world**.
 
 ![The Cool Way](banner.png)
 
