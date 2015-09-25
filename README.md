@@ -29,7 +29,7 @@ country.
 
 Our mission is to deconstruct the indoctrination surrounding imperative
 languages teaching  which unfortunately plagues many places in the world and,
-respectively, their IT education systems - ranging from technical to
+consecutively, their IT education systems - ranging from technical to
 postgraduates courses by providing resources and a community that makes it
 easier to learn about functional programming, functional languages, use cases etc.
 
