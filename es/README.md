@@ -33,20 +33,20 @@ cursos de postgrado, proporcionando recursos y una comunidad que hace con que
 sea fácil aprender acerca de lenguajes funcionales, el paradigma funcional y
 casos de uso.
 
-## Motivation
+## Motivación
 
-This initiative was born in Brazil, created by a small group of technical and
-undergraduate students who were simply tired of learning always the same
-imperative-related concepts and languages in their classes.
+La iniciativa nació en Brasil, creado por un pequeño grupo de estudiantes técnicos
+y graduados que solamente estaban cansados de aprender siempre los mismos
+conceptos imperativos y lenguajes de sus clases.
 
-As the [functional buzz](https://medium.com/@jugoncalves/functional-programming-should-be-your-1-priority-for-2015-47dd4641d6b9)
-grows it is very common to see nowadays people who have been wondering what
-functional programming is all about but can't find the right resources, good
-motivation or even a community to support his/her studies and then give up on
-learning. The situation becomes even worse when we realize that many of IT
-professionals, people who deal with software development - and even Computer
-Science students - have never heard of a different paradigm such as the
-functional one.
+Como el [functional buzz](https://medium.com/@jugoncalves/functional-programming-should-be-your-1-priority-for-2015-47dd4641d6b9)
+crece, es muy común ver en estos días la gente cuestinando sobre lo que es, en verdad,
+programación funcional y sus conceptos, pero con dificuldad para encontrar los recursos ideales,
+buena motivación, o hasta mismo una comunidad para apoyar sus estudios y la aprendizaje.
+La situación solo empeora quando nos damos cuenta de que muchos de los profesionales
+de TI, personas que trabajan con desarollo de software - y hasta mismo estudiantes
+de Ciencias de la Computación - ni siquiera se enteraron de un paradigma como el
+funcional.
 
 ## How?
 
