@@ -111,33 +111,34 @@ stated [here](https://github.com/lambda-io/meetup-organization-guidelines).
 - All the events - meetups and conferences - **must adhere to the basic
 principles of the foundation** - as its proposal, code of conduct etc.
 
-## Useful Links
+## Enlaces Útiles
 
-> We aim to have many useful repositories to help people with all the *Lambda I/O* purpose, they are:
+> Deseamos tener muchos repositorios para ayudar a la gente con el proposito del *Lambda I/O*, como:
 
-- [Meetup Organizer Manual](https://github.com/lambda-io/meetup-organization-guidelines)
+- [Guía del Organizador del Meetup](https://github.com/lambda-io/meetup-organization-guidelines)
 
-  A simple guide on how to organize Lambda I/O meetups.
+  Un guía sencillo de como organizar los meetups Lambda I/O.
 
-- [Conference Organizer Manual](https://github.com/lambda-io/conference-organization-guidelines)
+- [Guía del Organizador de Conferencia](https://github.com/lambda-io/conference-organization-guidelines)
 
-  A simple guide on how to organize Lambda I/O conferences.
+  Un guía sencillo de como organizar las conferencias Lambda I/O.
 
-- [Resources](https://github.com/lambda-io/resources)
+- [Recursos](https://github.com/lambda-io/resources)
 
-  Repo containing some resources which aim to help organizers of Lambda I/O events across the world.
+  Repositorio que contiene algunos recursos con lo objectivo de ayudar los organizadores de los
+  eventos Lambda I/O por todo el mundo.
 
-- [Code of Conduct](https://github.com/lambda-io/code-of-conduct)
+- [Código de Conducta](https://github.com/lambda-io/code-of-conduct)
 
-  Every event needs one.
+  Todo evento necesita tenerlo.
 
-- [Meetup Logo Generator](https://github.com/lambda-io/meetup-logo-generator)
+- [Generador de Logo de Meetup](https://github.com/lambda-io/meetup-logo-generator)
 
-  Logo Generator for every city meetup.
+  Generador de Logo para los meetups de cada ciudad.
 
-- [Meetup/Conference Site Boilerplate](https://github.com/lambda-io/site-boilerplate)
+- [Site del Meetup/Conferencia](https://github.com/lambda-io/site-boilerplate)
 
-  Such a very easy way to create websites for conferences/meetups.
+  Una manera mucho fácil de crear sitios web para conferencias/meetups.
 
 ## Traducciones
 
