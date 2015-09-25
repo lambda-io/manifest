@@ -149,10 +149,10 @@ idioma y quierer ayudar a nosostros, no dude en [contribuir](#contributing).
 - [Inglés](../README.md)
 - [Portugués](../pt/README.md)
 
-## Contributing
+## Contribuición
 
-Contributions are as welcome as possible! If you would like to help us in our
-mission, the contributing guidelines can be found [here](CONTRIBUTING.md).
+Contribuiciones son bienvenidas! Si deseas ayudar en nuestra misión, los guías
+de contribuición encuentran-se [aquí](../CONTRIBUTING.md).
 
 ## Licencia
 
