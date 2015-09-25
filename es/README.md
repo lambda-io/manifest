@@ -4,7 +4,7 @@
 con monads para efectos secundarios. Eso és, actualmente, una iniciativa
 abierta para **propagar programación funcional por todo el mundo**.
 
-![El camino entretenido](banner.png)
+![El camino entretenido](../banner.png)
 
 ## Tabla de contenidos
 
