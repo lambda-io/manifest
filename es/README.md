@@ -139,13 +139,14 @@ principles of the foundation** - as its proposal, code of conduct etc.
 
   Such a very easy way to create websites for conferences/meetups.
 
-## Translations
+## Traducciones
 
-> This manifest aims to be translated in as many languages as possible. At this
-moment, these are the available ones. If you miss any language and you'd like to
-help us, feel free to [contribute](#contributing).
+>- Deseamos que eso manifiesto seya traducido hasta el máximo de idiomas possibbles.
+En el momento, eso son los que están disponibles. Si sentir la falta de cualquier
+idioma y quierer ayudar a nosostros, no dude en [contribuir](#contributing).
 
-- [Portuguese](pt/README.md)
+- [Inglés](../README.md)
+- [Portugués](../pt/README.md)
 
 ## Contributing
 
