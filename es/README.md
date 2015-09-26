@@ -53,7 +53,7 @@ funcional.
 ### Meetups
 
 La idea es hacer pequeños meetups Lambda I/O por ciudad. Esos meetups consisten
-en meetups de un día con *talks* - y tal vez worksops - sobre todo en el mundo
+en meetups de un día con *talks* - y tal vez workshops - sobre todo en el mundo
 funcional:
 
 - El paradigma *per se*
