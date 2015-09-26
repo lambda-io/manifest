@@ -146,6 +146,7 @@ moment, these are the available ones. If you miss any language and you'd like to
 help us, feel free to [contribute](#contributing).
 
 - [Portuguese](pt/README.md)
+- [Español](es/README.md)
 
 ## Contributing
 
