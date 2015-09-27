@@ -4,7 +4,7 @@
 for side effects. It is actually an open initiative to **spread functional
 knowledge through the world**.
 
-![The Cool Way](banner.png)
+![Our Logo](banner.png)
 
 ## Table of contents
 
