@@ -17,21 +17,22 @@ para **espalhar conhecimento de programação funcional pelo mundo**.
 - [Contributing](#contributing)
 - [License](#license)
 
-## Who are we?
+## Quem somos?
 
-The Lambda I/O Foundation consists of an open initiative which is aims to
-introduce people around the world to all the features and benefits of the
-functional paradigm knowledge.
+A Fundação Lambda I/O consiste de uma iniciativa aberta que visa a
+introduzir as pessoas ao redor do mundo a todos os recursos e benefícios de se
+conhecer o paradigma de programação funcional.
 
-We intend to do that by organizing small, friendly-environmented, meetups on
-functional programming around the world which would climax in a big event per
-country.
+Pretendemos fazer isso através da organização de pequenos meetups - com um
+ambiente acolhedor - sobre programação funcional pelo mundo que culminariam em
+uma grande conferência por país.
 
-Our mission is to deconstruct the indoctrination surrounding imperative
-languages teaching  which unfortunately plagues many places in the world and,
-consecutively, their IT education systems - ranging from technical to
-postgraduates courses by providing resources and a community that makes it
-easier to learn about functional programming, functional languages, use cases etc.
+Nossa missão é desconstruir a doutrinação a cerca do ensino de linguagens
+imperativas que, infelizmente, assola muitos lugares do mundo e,
+consecutivamente, seus sistemas de ensino de TI - desde cursos técnicos a
+pós-graduações -, fornecendo recursos e uma comunidade que tornaria muito mais
+fácil de se aprender sobre programação funcional, linguagens funcionais, casos
+de uso etc.
 
 ## Motivation
 
