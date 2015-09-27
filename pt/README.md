@@ -1,21 +1,21 @@
 # O Manifesto Lambda I/O
 
 > Não, esse projeto não tem relação com o uso de programação funcional com
-tratamento monádico para efeitos colaterais. Na verdade, é uma iniciativa aberta
-para **espalhar conhecimento de programação funcional pelo mundo**.
+tratamentos monádicos para efeitos colaterais. Na verdade, é uma iniciativa aberta
+para **espalhar o conhecimento de programação funcional pelo mundo**.
 
 ![Nossa Logo](../banner.png)
 
 ## Table of contents
 
-- [Who are we?](#who-are-we)
-- [Motivation](#motivation)
-- [How?](#how)
-- [Our principles](#our-principles)
-- [Useful Links](#useful-links)
-- [Translations](#translations)
-- [Contributing](#contributing)
-- [License](#license)
+- [Quem somos?](#who-are-we)
+- [Motivação](#motivation)
+- [Como?](#how)
+- [Nossos princípios](#our-principles)
+- [Links úteis](#useful-links)
+- [Traduções](#translations)
+- [Contribuições](#contributing)
+- [Licença](#license)
 
 ## Quem somos?
 
