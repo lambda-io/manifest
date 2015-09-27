@@ -76,41 +76,44 @@ conferências anuais que unam grandes quantidades de pessoas por país.
 
 Os *Lambda I/O Meetups* têm um pré-formato que pode ser encontrado [aqui](https://github.com/lambda-io/conference-organization-guidelines).
 
-## Our principles
+## Nossos Princípios
 
-### People matter
+### As pessoas são importantes
 
-As stated in the [Motivation](#motivation) section, people are our reason. So it is very important to think about their experience - by helping them and being as nice as possible. Functional paradigm can be awesome - so why can't try to make people learning it feel awesome too?
+Como dito na seção [Motivação](#motivacao), as pessoas são a nossa razão. Por
+isso, é muito importante pensar sobre a sua experiência - ajudando-as e sendo o
+mais legal possível. O paradigma funcional pode ser incrível - então por que
+não podemos tentar fazer as pessoas aprendendo-o se sentirem incríveis também?
 
-### (De)centralization
+### (Des)centralização
 
-Our philosophy works based on a centralized model of decentralization.
-To help understanding, it can be divided in two points:
+Nossas filosofia é baseada em um modelo centralizado de descentralização. Para
+ajudar a compreensão, este pode ser dividido em dois pontos:
 
-#### Decentralization
+#### Descentralização
 
-- **Anyone** has the freedom to organize Lambda I/O events **wherever** and
-**whenever** he/she wants.
+- **Qualquer um** tem a liberdade de organizar eventos Lambda I/O **quando** e
+**onde** quiser.
 
-- The meetups are **independent of each other**.
+- Os meetups são **independentes** uns dos outros.
 
-- The Lambda I/O Foundation does not set specific details of the individual
-scope of each meetup - such as *dates, agenda, sponsors, supporters* etc.
+- A Fundação Lambda I/O não define detalhes específicos de cada meetup - como
+*datas, agenda, patrocinadores, apoiadores* etc.
 
-#### Centralization
+#### Centralização
 
-- To make the organization and interaction of meetups with the proposal of the
-foundation easier, all organizational repositories of meetups and conferences
-are gathered in the [Lambda I/O Foundation](https://github.com/lambda-io)'s
-Github organization. For each meetup it is created a team that will have full
-power to define the details described in the [Decentralization](#decentralization) principle and
-the teams only have access to their meetups - ensuring their independence. The
-born of a meetup - and their respective team in the [Lambda I/O Foundation](https://github.com/lambda-io)'s
-Github organization - only needs the interest of a possible facilitator as
-stated [here](https://github.com/lambda-io/meetup-organization-guidelines).
+- Para facilitar a organização dos meetups - e a integração destes com a
+proposta da fundação -, todos os repositórios organizacionais de meetups e
+conferências estão reunidos na organização do Github da [Fundação Lambda I/O](https://github.com/lambda-io).
+Para cada meetup deve ser criada uma equipe que terá completo poder de definir
+os detalhes descritos no princípio da [descentralização](# descentralização) e
+as equipas só têm acesso aos seus meetups - assegurando a sua independência. O
+nascimento de um meetup - e sua respectiva equipe na organização no Github da
+[Fundação Lambda I/O](https://github.com/lambda-io) - precisa apenas da
+manifestação de interesse por um possível facilitador como declarado [aqui](https://github.com/lambda-io/meetup-organization-guidelines).
 
-- All the events - meetups and conferences - **must adhere to the basic
-principles of the foundation** - as its proposal, code of conduct etc.
+- Todos os eventos - meetups e conferências - **devem aderir aos princípios
+básico da Fundação** - como a sua proposta, código de conduta, etc.
 
 ## Useful Links
 
