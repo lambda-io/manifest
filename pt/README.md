@@ -49,32 +49,32 @@ profissionais de TI, pessoas que lidam com desenvolvimento de software - e até
 mesmo estudantes de Ciência da Computação - que nunca ouviram falar de um
 paradigma diferente, como o funcional.
 
-## How?
+## Como?
 
 ### Meetups
 
-The idea is to make small Lambda I/O Meetups per city. Those meetups consists of
-an one-day meetup with talks - and maybe workshops - about everything in the
-functional world:
+A ideia é fazer pequenos meetups Lambda I/O por cidade. Essas meetups consistem
+encontros de um dia com palestras - e talvez workshops - sobre tudo no mundo
+funcional:
 
-- The paradigm itself
-- *Purist* languages
-- Functional libs and implementations
-- Parallelism/Concurrency
-- Benefits
-- Use cases
+- O paradigma em si
+- *Linguagens puristas*
+- Bibliotecas e implementações funcionais
+- Paralelismo/Concorrência
+- Benefícios
+- Casos de uso
 - ...
 
-Those *Lambda I/O Meetups* have a pre-formatted style which can be found [here](https://github.com/lambda-io/meetup-organization-guidelines).
+Os *Lambda I/O Meetups* têm um pré-formato que pode ser encontrado [aqui](https://github.com/lambda-io/meetup-organization-guidelines).
 
-### Conferences
+### Conferências
 
-The small meetups aim to promote the functional knowledge in distributed/
-*(de)centralized* way but they aren't enough since they exactly **small meetups**.
-So it is also important to promote big conferences yearly which would congregate
-big amounts of people per country.
+Os pequenos meetups objetivam promover o conhecimento de funcional de uma maneira
+distribuída/*(des)centralizada*, mas eles não são o suficiente, uma vez que são
+exatamente **pequenos meetups**. Por isso, também é importante promover grandes
+conferências anuais que unam grandes quantidades de pessoas por país.
 
-Those *Lambda I/O Conferences* have a pre-formatted style which can be found [here](https://github.com/lambda-io/conference-organization-guidelines).
+Os *Lambda I/O Meetups* têm um pré-formato que pode ser encontrado [aqui](https://github.com/lambda-io/conference-organization-guidelines).
 
 ## Our principles
 
