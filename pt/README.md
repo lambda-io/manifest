@@ -6,16 +6,16 @@ para **espalhar conhecimento de programação funcional pelo mundo**.
 
 ![Nossa Logo](../banner.png)
 
-## Table of contents
+## Tabela de Conteúdos
 
-- [Who are we?](#who-are-we)
-- [Motivation](#motivation)
-- [How?](#how)
-- [Our principles](#our-principles)
-- [Useful Links](#useful-links)
-- [Translations](#translations)
-- [Contributing](#contributing)
-- [License](#license)
+- [Quem somos?](#quem-somos)
+- [Motivação](#motivação)
+- [Como?](#como)
+- [Nossos Princípios](#nossos-princípios)
+- [Links Úteis](#links-Úteis)
+- [Traduções](#traduções)
+- [Contribuições](#contribuições)
+- [Licença](#licença)
 
 ## Quem somos?
 
