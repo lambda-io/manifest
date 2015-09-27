@@ -158,10 +158,10 @@ idioma e quiser nos ajudar, fique à vontade para [contribuir](#contribuicoes).
 Contribuições são muito bem-vindas! Se você gostaria de nos ajudar em nossa
 missão, as orientações para contribuições pode ser encontradas [aqui](CONTRIBUTING.md).
 
-## License
+## Licença
 
-The documentation around the **Lambda I/O Manifest** and everything in this
-repository is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International](http://creativecommons.org/licenses/by-nc/4.0/) license
-except the logo and other images, which are licensed under a [Creative Commons  Attribution-NonCommercial-NoDerivatives 4.0 International](http://creativecommons.org/licenses/by-nc-nd/4.0/) license.
+A documentação em torno do **Manifesto Lambda I/O** e tudo neste repositório
+está licenciado sob uma licença [Creative Commons Attribution 4.0 Internacional](http://creativecommons.org/licenses/by-nc/4.0/)
+exceto o logotipo e outras imagens, que estão licenciados sob uma licença [Creative Commons Attribution-NoDerivatives 4.0 Internacional](http://creativecommons.org/licenses/by-nc-nd/4.0/).
 
-*All contributions are assumed to be also licensed under the same.*
+*Todas as contribuições também devem ser licenciadas sob as mesmas.*
