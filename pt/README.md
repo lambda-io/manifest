@@ -144,13 +144,13 @@ proposta *Lambda I/O*, são eles:
 
   Uma maneira fácil de criar o site de seu evento Lambda I/O.
 
-## Translations
+## Traduções
 
-> This manifest aims to be translated in as many languages as possible. At this
-moment, these are the available ones. If you miss any language and you'd like to
-help us, feel free to [contribute](#contributing).
+> Este manifesto objetiva ser traduzido no maior número de linguagens o possível.
+Neste momento, estes são as versões disponíveis. Se você sentir falta de algum
+idioma e quiser nos ajudar, fique à vontade para [contribuir](#contribuicoes).
 
-- [Portuguese](pt/README.md)
+- [English](../README.md)
 - [Español](es/README.md)
 
 ## Contributing
