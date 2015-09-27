@@ -1,8 +1,8 @@
 # O Manifesto Lambda I/O
 
 > Não, esse projeto não tem relação com o uso de programação funcional com
-tratamento monádico para efeitos colaterais. Na verdade, é uma iniciativa aberta
-para **espalhar conhecimento de programação funcional pelo mundo**.
+tratamentos monádicos para efeitos colaterais. Na verdade, é uma iniciativa aberta
+para **espalhar o conhecimento de programação funcional pelo mundo**.
 
 ![Nossa Logo](../banner.png)
 
@@ -19,7 +19,7 @@ para **espalhar conhecimento de programação funcional pelo mundo**.
 
 ## Quem somos?
 
-A Fundação Lambda I/O consiste de uma iniciativa aberta que visa a
+A Fundação Lambda I/O consiste de uma iniciativa aberta que visa
 introduzir as pessoas ao redor do mundo a todos os recursos e benefícios de se
 conhecer o paradigma de programação funcional.
 
@@ -29,8 +29,8 @@ uma grande conferência por país.
 
 Nossa missão é desconstruir a doutrinação acerca do ensino de linguagens
 imperativas que, infelizmente, assola muitos lugares do mundo e,
-consecutivamente, seus sistemas de ensino de TI - desde cursos técnicos a
-pós-graduações -, fornecendo recursos e uma comunidade que tornaria muito mais
+consequentemente, seus sistemas de ensino de TI - desde cursos técnicos a
+pós-graduações - fornecendo recursos e uma comunidade que tornaria muito mais
 fácil de se aprender sobre programação funcional, linguagens funcionais, casos
 de uso etc.
 
@@ -58,23 +58,23 @@ encontros de um dia com palestras - e talvez workshops - sobre tudo no mundo
 funcional:
 
 - O paradigma em si
-- *Linguagens puristas*
+- *Linguagens puras*
 - Bibliotecas e implementações funcionais
 - Paralelismo/Concorrência
 - Benefícios
 - Casos de uso
 - ...
 
-Os *Lambda I/O Meetups* têm um pré-formato que pode ser encontrado [aqui](https://github.com/lambda-io/meetup-organization-guidelines).
+Os Lambda I/O Meetups têm um pré-formato que pode ser encontrado [aqui](https://github.com/lambda-io/meetup-organization-guidelines).
 
 ### Conferências
 
-Os pequenos meetups objetivam promover o conhecimento de funcional de uma maneira
-distribuída/*(des)centralizada*, mas eles não são o suficiente, uma vez que são
+Os pequenos meetups visam promover o conhecimento do paradigma funcional de uma maneira
+distribuída/*(des)centralizada*, mas eles não são suficientes, uma vez que são
 exatamente **pequenos meetups**. Por isso, também é importante promover grandes
 conferências anuais que unam grandes quantidades de pessoas por país.
 
-Os *Lambda I/O Meetups* têm um pré-formato que pode ser encontrado [aqui](https://github.com/lambda-io/conference-organization-guidelines).
+Os Lambda I/O Meetups têm um pré-formato que pode ser encontrado [aqui](https://github.com/lambda-io/conference-organization-guidelines).
 
 ## Nossos Princípios
 
@@ -83,7 +83,7 @@ Os *Lambda I/O Meetups* têm um pré-formato que pode ser encontrado [aqui](http
 Como dito na seção [Motivação](#motivacao), as pessoas são a nossa razão. Por
 isso, é muito importante pensar sobre a sua experiência - ajudando-as e sendo o
 mais legal possível. O paradigma funcional pode ser incrível - então por que
-não podemos tentar fazer as pessoas aprendendo-o se sentirem incríveis também?
+não podemos tentar fazer as pessoas aprendendo-o sentirem-se incríveis também?
 
 ### (Des)centralização
 
@@ -113,7 +113,7 @@ O nascimento de um meetup - e sua respectiva equipe na organização no Github d
 manifestação de interesse por um possível facilitador como declarado [aqui](https://github.com/lambda-io/meetup-organization-guidelines).
 
 - Todos os eventos - meetups e conferências - **devem aderir aos princípios
-básico da Fundação** - como a sua proposta, código de conduta, etc.
+básico da fundação** - como a sua proposta, código de conduta, etc.
 
 ## Links Úteis
 
@@ -150,8 +150,8 @@ proposta *Lambda I/O*, são eles:
 Neste momento, estes são as versões disponíveis. Se você sentir falta de algum
 idioma e quiser nos ajudar, fique à vontade para [contribuir](#contribuições).
 
-- [English](README.md)
-- [Español](es/README.md)
+- [English](../README.md)
+- [Español](../es/README.md)
 
 ## Contribuições
 
