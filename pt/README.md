@@ -115,33 +115,34 @@ manifestação de interesse por um possível facilitador como declarado [aqui](h
 - Todos os eventos - meetups e conferências - **devem aderir aos princípios
 básico da Fundação** - como a sua proposta, código de conduta, etc.
 
-## Useful Links
+## Links Úteis
 
-> We aim to have many useful repositories to help people with all the *Lambda I/O* purpose, they are:
+> Nosso objetivo é ter muitos repositórios para ajudar as pessoas com toda a
+proposta *Lambda I/O*, são eles:
 
-- [Meetup Organizer Manual](https://github.com/lambda-io/meetup-organization-guidelines)
+- [Manual de Organização dos Meetups](https://github.com/lambda-io/meetup-organization-guidelines)
 
-  A simple guide on how to organize Lambda I/O meetups.
+  Um guia simples sobre como organizar meetups Lambda I/O.
 
-- [Conference Organizer Manual](https://github.com/lambda-io/conference-organization-guidelines)
+- [Manual de Organização das Conferências](https://github.com/lambda-io/conference-organization-guidelines)
 
-  A simple guide on how to organize Lambda I/O conferences.
+  Um guia simples sobre como organizar conferências Lambda I/O.
 
-- [Resources](https://github.com/lambda-io/resources)
+- [Recursos](https://github.com/lambda-io/resources)
 
-  Repo containing some resources which aim to help organizers of Lambda I/O events across the world.
+  Repo contendo alguns recursos que visam a ajudar os organizadores de eventos Lambda I/O.
 
-- [Code of Conduct](https://github.com/lambda-io/code-of-conduct)
+- [Código de Conduta](https://github.com/lambda-io/code-of-conduct)
 
-  Every event needs one.
+  Algo necessário a qualquer evento.
 
-- [Meetup Logo Generator](https://github.com/lambda-io/meetup-logo-generator)
+- [Gerador de Logos de Meetups](https://github.com/lambda-io/meetup-logo-generator)
 
-  Logo Generator for every city meetup.
+  Gerador de logos para cada meetup local.
 
 - [Meetup/Conference Site Boilerplate](https://github.com/lambda-io/site-boilerplate)
 
-  Such a very easy way to create websites for conferences/meetups.
+  Uma maneira fácil de criar o site de seu evento Lambda I/O.
 
 ## Translations
 
