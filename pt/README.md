@@ -150,13 +150,13 @@ proposta *Lambda I/O*, são eles:
 Neste momento, estes são as versões disponíveis. Se você sentir falta de algum
 idioma e quiser nos ajudar, fique à vontade para [contribuir](#contribuicoes).
 
-- [English](../README.md)
+- [English](README.md)
 - [Español](es/README.md)
 
-## Contributing
+## Contribuições
 
-Contributions are as welcome as possible! If you would like to help us in our
-mission, the contributing guidelines can be found [here](CONTRIBUTING.md).
+Contribuições são muito bem-vindas! Se você gostaria de nos ajudar em nossa
+missão, as orientações para contribuições pode ser encontradas [aqui](CONTRIBUTING.md).
 
 ## License
 
