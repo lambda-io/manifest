@@ -27,7 +27,7 @@ Pretendemos fazer isso através da organização de pequenos meetups - com um
 ambiente acolhedor - sobre programação funcional pelo mundo que culminariam em
 uma grande conferência por país.
 
-Nossa missão é desconstruir a doutrinação a cerca do ensino de linguagens
+Nossa missão é desconstruir a doutrinação acerca do ensino de linguagens
 imperativas que, infelizmente, assola muitos lugares do mundo e,
 consecutivamente, seus sistemas de ensino de TI - desde cursos técnicos a
 pós-graduações -, fornecendo recursos e uma comunidade que tornaria muito mais
@@ -53,7 +53,7 @@ paradigma diferente, como o funcional.
 
 ### Meetups
 
-A ideia é fazer pequenos meetups Lambda I/O por cidade. Essas meetups consistem
+A ideia é fazer pequenos meetups Lambda I/O por cidade. Esses meetups consistem
 encontros de um dia com palestras - e talvez workshops - sobre tudo no mundo
 funcional:
 
@@ -87,7 +87,7 @@ não podemos tentar fazer as pessoas aprendendo-o se sentirem incríveis também
 
 ### (Des)centralização
 
-Nossas filosofia é baseada em um modelo centralizado de descentralização. Para
+Nossa filosofia é baseada em um modelo centralizado de descentralização. Para
 ajudar a compreensão, este pode ser dividido em dois pontos:
 
 #### Descentralização
@@ -105,10 +105,10 @@ ajudar a compreensão, este pode ser dividido em dois pontos:
 - Para facilitar a organização dos meetups - e a integração destes com a
 proposta da fundação -, todos os repositórios organizacionais de meetups e
 conferências estão reunidos na organização do Github da [Fundação Lambda I/O](https://github.com/lambda-io).
-Para cada meetup deve ser criada uma equipe que terá completo poder de definir
+Para cada meetup será criada uma equipe que terá completo poder de definir
 os detalhes descritos no princípio da [descentralização](# descentralização) e
-as equipas só têm acesso aos seus meetups - assegurando a sua independência. O
-nascimento de um meetup - e sua respectiva equipe na organização no Github da
+as equipas só terão acesso aos seus meetups - assegurando a sua independência.
+O nascimento de um meetup - e sua respectiva equipe na organização no Github da
 [Fundação Lambda I/O](https://github.com/lambda-io) - precisa apenas da
 manifestação de interesse por um possível facilitador como declarado [aqui](https://github.com/lambda-io/meetup-organization-guidelines).
 
@@ -148,7 +148,7 @@ proposta *Lambda I/O*, são eles:
 
 > Este manifesto objetiva ser traduzido no maior número de linguagens o possível.
 Neste momento, estes são as versões disponíveis. Se você sentir falta de algum
-idioma e quiser nos ajudar, fique à vontade para [contribuir](#contribuicoes).
+idioma e quiser nos ajudar, fique à vontade para [contribuir](#contribuições).
 
 - [English](README.md)
 - [Español](es/README.md)
