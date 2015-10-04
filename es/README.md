@@ -4,7 +4,7 @@
 con monads para efectos secundarios. Eso és, actualmente, una iniciativa
 abierta para **propagar programación funcional por todo el mundo**.
 
-![El camino entretenido](../banner.png)
+![Nuestro logo](../banner.png)
 
 ## Tabla de contenidos
 
@@ -148,8 +148,8 @@ básicos de la fundación** - como su propuesta y código de conducta.
 En el momento, eso son los que están disponibles. Si sentir la falta de cualquier
 idioma y quierer ayudar a nosostros, no dude en [contribuir](#contributing).
 
-- [Inglés](../README.md)
-- [Portugués](../pt/README.md)
+- [English](../README.md)
+- [Português](../pt/README.md)
 
 ## Contribuición
 

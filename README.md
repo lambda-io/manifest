@@ -4,7 +4,7 @@
 for side effects. It is actually an open initiative to **spread functional
 knowledge through the world**.
 
-![The Cool Way](banner.png)
+![Our Logo](banner.png)
 
 ## Table of contents
 
@@ -145,8 +145,8 @@ principles of the foundation** - as its proposal, code of conduct etc.
 moment, these are the available ones. If you miss any language and you'd like to
 help us, feel free to [contribute](#contributing).
 
-- [Portuguese](pt/README.md)
 - [Español](es/README.md)
+- [Português](pt/README.md)
 
 ## Contributing
 
