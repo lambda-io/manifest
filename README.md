@@ -79,7 +79,7 @@ Those *Lambda I/O Conferences* have a pre-formatted style which can be found [he
 
 ### People matter
 
-As stated in the [Motivation](#motivation) section, people are our reason. So it is very important to think about their experience - by helping them and being as nice as possible. Functional paradigm can be awesome - so why can't try to make people learning it feel awesome too?
+As stated in the [Motivation](#motivation) section, people are our reason. So it is very important to think about their experience - by helping them and being as nice as possible. Functional paradigm can be awesome - so why can't we try to make people learning it feel awesome too?
 
 ### (De)centralization
 
@@ -88,8 +88,8 @@ To help understanding, it can be divided in two points:
 
 #### Decentralization
 
-- **Anyone** has the freedom to organize Lambda I/O events **wherever** and
-**whenever** he/she wants.
+- **Any group of people** has the freedom to organize Lambda I/O events
+**wherever** and **whenever** they want.
 
 - The meetups are **independent of each other**.
 
