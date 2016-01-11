@@ -19,7 +19,7 @@ knowledge through the world**.
 
 ## Who are we?
 
-The Lambda I/O Foundation consists of an open initiative which is aims to
+The Lambda I/O Foundation consists of an open initiative which aims to
 introduce people around the world to all the features and benefits of the
 functional paradigm knowledge.
 
