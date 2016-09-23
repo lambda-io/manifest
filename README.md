@@ -64,7 +64,7 @@ functional world:
 - Use cases
 - ...
 
-Those *Lambda I/O Meetups* have a pre-formatted style which can be found [here](https://github.com/lambda-io/meetup-organization-guidelines).
+Those *Lambda I/O Meetups* have a pre-formatted style which can be found [here](https://github.com/lambda-io/meetup-guidelines).
 
 ### Conferences
 
@@ -106,7 +106,7 @@ power to define the details described in the [Decentralization](#decentralizatio
 the teams only have access to their meetups - ensuring their independence. The
 born of a meetup - and their respective team in the [Lambda I/O Foundation](https://github.com/lambda-io)'s
 Github organization - only needs the interest of a possible facilitator as
-stated [here](https://github.com/lambda-io/meetup-organization-guidelines).
+stated [here](https://github.com/lambda-io/meetup-guidelines).
 
 - All the events - meetups and conferences - **must adhere to the basic
 principles of the foundation** - as its proposal, code of conduct etc.
@@ -115,7 +115,7 @@ principles of the foundation** - as its proposal, code of conduct etc.
 
 > We aim to have many useful repositories to help people with all the *Lambda I/O* purpose, they are:
 
-- [Meetup Organizer Manual](https://github.com/lambda-io/meetup-organization-guidelines)
+- [Meetup Organizer Manual](https://github.com/lambda-io/meetup-guidelines)
 
   A simple guide on how to organize Lambda I/O meetups.
 
@@ -131,7 +131,7 @@ principles of the foundation** - as its proposal, code of conduct etc.
 
   Every event needs one.
 
-- [Meetup Logo Generator](https://github.com/lambda-io/meetup-logo-generator)
+- [Meetup Logo Generator](https://lambda-io.github.io/logo-generator)
 
   Logo Generator for every city meetup.
 
