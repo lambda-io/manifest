@@ -65,7 +65,7 @@ funcional:
 - Casos de uso
 - ...
 
-Os Lambda I/O Meetups têm um pré-formato que pode ser encontrado [aqui](https://github.com/lambda-io/meetup-organization-guidelines).
+Os Lambda I/O Meetups têm um pré-formato que pode ser encontrado [aqui](https://github.com/lambda-io/meetup-guidelines).
 
 ### Conferências
 
@@ -74,7 +74,7 @@ distribuída/*(des)centralizada*, mas eles não são suficientes, uma vez que s�
 exatamente **pequenos meetups**. Por isso, também é importante promover grandes
 conferências anuais que unam grandes quantidades de pessoas por país.
 
-Os Lambda I/O Meetups têm um pré-formato que pode ser encontrado [aqui](https://github.com/lambda-io/conference-organization-guidelines).
+Os Lambda I/O Meetups têm um pré-formato que pode ser encontrado [aqui](https://github.com/lambda-io/conference-guidelines).
 
 ## Nossos Princípios
 
@@ -110,7 +110,7 @@ os detalhes descritos no princípio da [descentralização](# descentralização
 as equipas só terão acesso aos seus meetups - assegurando a sua independência.
 O nascimento de um meetup - e sua respectiva equipe na organização no Github da
 [Fundação Lambda I/O](https://github.com/lambda-io) - precisa apenas da
-manifestação de interesse por um possível facilitador como declarado [aqui](https://github.com/lambda-io/meetup-organization-guidelines).
+manifestação de interesse por um possível facilitador como declarado [aqui](https://github.com/lambda-io/meetup-guidelines).
 
 - Todos os eventos - meetups e conferências - **devem aderir aos princípios
 básico da fundação** - como a sua proposta, código de conduta, etc.
@@ -120,11 +120,11 @@ básico da fundação** - como a sua proposta, código de conduta, etc.
 > Nosso objetivo é ter muitos repositórios para ajudar as pessoas com toda a
 proposta *Lambda I/O*, são eles:
 
-- [Manual de Organização dos Meetups](https://github.com/lambda-io/meetup-organization-guidelines)
+- [Manual de Organização dos Meetups](https://github.com/lambda-io/meetup-guidelines)
 
   Um guia simples sobre como organizar meetups Lambda I/O.
 
-- [Manual de Organização das Conferências](https://github.com/lambda-io/conference-organization-guidelines)
+- [Manual de Organização das Conferências](https://github.com/lambda-io/conference-guidelines)
 
   Um guia simples sobre como organizar conferências Lambda I/O.
 
